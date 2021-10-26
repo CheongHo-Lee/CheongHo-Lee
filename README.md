@@ -1,4 +1,7 @@
 ### Hi there 👋
+Good day! I am Cheongho Lee who is interested in Game Programming form South Korea.
+
+If you want to contact me, please leave me a message!
 
 <!--
 **CheongHo-Lee/CheongHo-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
