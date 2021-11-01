@@ -3,6 +3,12 @@ Good day! I am Cheongho Lee who is interested in Game Programming from South Kor
 
 If you want to contact me, please leave me a message!
 
+<p>
+  <a href="https://github.com/CheongHo-Lee/" target="_blank"><img src="https://img.shields.io/badge/CheongHoLee-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+  <a href="mailto:dlcjdgh99@naver.com" target="_blank"><img src="https://img.shields.io/badge/dlcjdgh99@naver.com-brightgreen?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/unity3d-2020.3.0-blue?style=flat-square&logo=unity"></a>
+</p>
+
 <!--
 **CheongHo-Lee/CheongHo-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
