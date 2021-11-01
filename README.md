@@ -1,5 +1,5 @@
 ### Hi there 👋
-Good day! I am Cheongho Lee who is interested in Game Programming form South Korea.
+Good day! I am Cheongho Lee who is interested in Game Programming from South Korea.
 
 If you want to contact me, please leave me a message!
 
