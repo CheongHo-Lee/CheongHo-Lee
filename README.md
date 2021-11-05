@@ -33,6 +33,11 @@ Good day! I am Cheongho Lee who is interested in Game Programming from South Kor
        [Game] Horror escape indie game.
       </a>
     </li>
+     <li>
+      <a href="https://github.com/CheongHo-Lee/Dog-Diagnostic-Algorithm-unity" target="_blank">
+       [App] Diagnostic Algorithm.
+      </a>
+    </li>
   </ul>
 </details>
 
