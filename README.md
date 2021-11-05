@@ -110,6 +110,11 @@ Good day! I am Cheongho Lee who is interested in Game Programming from South Kor
         Researcher, Xicom Lab, SKU.
       </a>
     </li>
+    <li>
+      <a href="http://intoh.monoalliance.com/" target="_blank">
+        Intern, IntoCNS, Inc.
+      </a>
+    </li>
   </ul>
 </details>
 
