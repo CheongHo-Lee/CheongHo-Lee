@@ -7,7 +7,8 @@ If you want to contact me, please leave me a message!
   <a href="https://github.com/CheongHo-Lee/" target="_blank"><img src="https://img.shields.io/badge/CheongHoLee-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
   <a href="mailto:dlcjdgh99@naver.com" target="_blank"><img src="https://img.shields.io/badge/dlcjdgh99@naver.com-brightgreen?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
-![CheongHo-Lee's stats](https://github-readme-stats.vercel.app/api?username=cheongho-lee&theme=discord_old_blurple&hide_border=true)
+
+![cheongho-lee's stats](https://github-readme-stats.vercel.app/api?username=cheongho-lee&theme=discord_old_blurple&hide_border=true)
 
 <!--
 **CheongHo-Lee/CheongHo-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
