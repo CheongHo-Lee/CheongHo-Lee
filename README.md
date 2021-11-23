@@ -24,7 +24,7 @@ Good day! I am Cheongho Lee who is interested in Game Programming from South Kor
       </a>
     </li>
     <li>
-      <a href="https://github.com/CheongHo-Lee/blockcodingVR-unity" target="_blank">
+      <a href="https://github.com/SKU-CompileError/SKU_Metaverse-unity" target="_blank">
         [Metaverse] Graduation exhibition.
       </a>
     </li>
