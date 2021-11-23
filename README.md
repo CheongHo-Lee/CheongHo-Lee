@@ -15,7 +15,7 @@ Good day! I am Cheongho Lee who is interested in Game Programming from South Kor
   <ul>
     <li>
       <a href="https://github.com/SKU-CompileError/blockcodingVR-unity" target="_blank">
-        [Metaverse] Graduation exhibition.
+        [VR] Block coding system.
       </a>
    </li>
     <li>
@@ -25,7 +25,7 @@ Good day! I am Cheongho Lee who is interested in Game Programming from South Kor
     </li>
     <li>
       <a href="https://github.com/CheongHo-Lee/blockcodingVR-unity" target="_blank">
-        [VR] Block coding system.
+        [Metaverse] Graduation exhibition.
       </a>
     </li>
     <li>
