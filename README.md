@@ -88,7 +88,7 @@ Good day! I am Cheongho Lee who is interested in Game Programming from South Kor
         1st ranked, Capstone design, SKU, 2021.
     </li>
      <li>
-        1st ranked, founded idea contest, SKU, 2021.
+        1st ranked, Design of the Start-up idea, SKU, 2021.
     </li>
   </ul>
 </details>
