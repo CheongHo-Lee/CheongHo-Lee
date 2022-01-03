@@ -102,6 +102,9 @@ Good day! I am Cheongho Lee who is interested in Game Programming from South Kor
      <li>
         1st ranked, Design of the Start-up idea, SKU, 2021.
     </li>
+      <li>
+        4st ranked, Metaverse developer contest, RAPA, 2021.
+    </li>
   </ul>
 </details>
 
