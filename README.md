@@ -41,6 +41,18 @@ Good day! I am Cheongho Lee who is interested in Game Programming from South Kor
   </ul>
 </details>
 
+<details open="open">
+  <summary><b>👨‍💻 Study</b></summary>
+  <ul>
+    <li>
+      <a href="https://github.com/CheongHo-Lee/Algorithm-Study" target="_blank">
+        Algorithm Study for Coding-test, 2021.12~
+      </a>
+    </li>
+  </ul>
+</details>
+
+
 <details>
   <summary><b>🏆 Awards and Honors</b></summary>
   <ul>
