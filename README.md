@@ -46,7 +46,7 @@ Good day! I am Cheongho Lee who is interested in Game Programming from South Kor
   <ul>
     <li>
       <a href="https://github.com/CheongHo-Lee/Algorithm-Study" target="_blank">
-        Algorithm Study for Coding-test, 2021.12~
+        Algorithm Study for Coding-test
       </a>
     </li>
   </ul>
