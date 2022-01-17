@@ -2,6 +2,7 @@
 Good day! I am Cheongho Lee who is interested in Game Programming from South Korea.
 
 > If you want to contact me, please leave me a message!
+> <a href="https://chlee200530.tistory.com/" target="_blank">My blog is here!</a>
 
 <p>
   <a href="https://github.com/CheongHo-Lee/" target="_blank"><img src="https://img.shields.io/badge/CheongHoLee-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
