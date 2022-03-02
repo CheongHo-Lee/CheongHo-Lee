@@ -35,7 +35,7 @@ Good day! I am Cheongho Lee who is interested in Game Programming from South Kor
       </a>
     </li>
     <li>
-      <a href="https://github.com/CheongHo-Lee/indieGames" target="_blank">
+      <a href="https://github.com/SKU-CompileError/indieGames-unity" target="_blank">
        [Game] Horror escape indie game.
       </a>
     </li>
