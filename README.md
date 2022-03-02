@@ -25,7 +25,7 @@ Good day! I am Cheongho Lee who is interested in Game Programming from South Kor
       </a>
    </li>
     <li>
-      <a href="https://github.com/CheongHo-Lee/PhysicallybasedSoapbubble-BubbleArtXR" target="_blank">
+      <a href="https://github.com/SKU-XicomLab/PhysicallybasedSoapbubble-BubbleArtXR-unity" target="_blank">
         [XR/NRF Research] Physically-based rendering soap bubble art.
       </a>
     </li>
